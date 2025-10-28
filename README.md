@@ -1,6 +1,6 @@
 # 🏬 Retail Management System
 
-![Retail Banner](./assets/banner02.png)
+![Retail Banner](./assets/banner.png)
 
 ---
 
@@ -33,25 +33,25 @@ This project was built to strengthen knowledge in **C# programming, SQL Server d
 
 ## 🎞️ GIFs / Screenshots
 
-**<h3>1️⃣ Login & Registration</h3>**
+**<h3>1️⃣ Login, Validation & Client Purchase Flow</h3>**
 <p align="left">
-  <img src="./assets/login.gif" width="600" alt="Login Screen">
+  <img src="./assets/login-purchase.gif" width="900" alt="Login and Purchase Flow">
 </p>
-<i>Shows the user logging in or creating an account for the first time. Supports multiple roles (Admin, Manager, Employee, Client).</i>
+<i>Shows login and registration with validation, followed by a client browsing products, using filters, adding items to the cart, and completing a purchase.</i>
 <br></br>
 
-**<h3>2️⃣ Admin Dashboard & Data Management</h3>**
+**<h3>2️⃣ Product CRUD (Admin Operations)</h3>**
 <p align="left">
-  <img src="./assets/admin-panel.gif" width="600" alt="Admin Panel">
+  <img src="./assets/product-crud.gif" width="900" alt="Product CRUD">
 </p>
-<i>Demonstrates the Admin panel where users can register clients, employees, products, and sales. Admins can also consult and manage all system data, including stock and transactions.</i>
+<i>Demonstrates the admin registering a new product, consulting the list, updating details, deleting items, and testing validation rules.</i>
 <br></br>
 
-**<h3>3️⃣ Shopping Cart & Stock Consultation</h3>**
+**<h3>3️⃣ Admin Permissions Overview</h3>**
 <p align="left">
-  <img src="./assets/cart.gif" width="600" alt="Cart Functionality">
+  <img src="./assets/admin-permissions.gif" width="900" alt="Admin Permissions">
 </p>
-<i>Shows the client browsing products, filtering results, adding items to the cart, and viewing total prices in real time.</i>
+<i>Displays all admin privileges, including access to registration and consultation modules, employee and product updates, search functionality, and general CRUD interactions.</i>
 
 ---
 
