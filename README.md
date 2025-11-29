@@ -69,7 +69,7 @@ This project was built to strengthen knowledge in **C# programming, SQL Server d
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/goncalo-codes/retail-management-system.git
+git clone https://github.com/goncalo-f-oliveira/retail-management-system.git
 ```
 ### Open & Run
 
